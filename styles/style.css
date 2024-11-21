@@ -2,7 +2,6 @@
   min-inline-size: 375px;
   max-inline-size: 1024px;
   margin: auto;
-  /* color: var(--text-color, #f1b2ce); */
   font-family: var(--main-font, sans-serif);
   background-image: var(--bg-image);
   background-color: var(--bg-color);
