@@ -11,6 +11,7 @@
   --cards-inner-gap: 10px;
   --main-font: "IBM Plex mono";
   --title-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+  --title-font-size-mobile: clamp(7.25rem, 7.0108rem + 1.0204vw, 7.5rem);
   --button-font-size: 18px;
   --title-color: #db00ff;
   --title-shadow-color: #ff0070;
